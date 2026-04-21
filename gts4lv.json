@@ -1,11 +1,11 @@
 {
   "response": [{
-    "datetime": 1745280000,
-    "filename": "crDroidAndroid-11.0-20260421-gts4lv-v7.6.zip",
-    "id": "REPLACE_WITH_MD5_OF_ZIP",
+    "datetime": 1745193600,
+    "filename": "crDroidAndroid-11.0-20260421-gts4lv-v7.61-REV38.zip",
+    "id": "652f4d8db30a2a24d845d728cbcf2198",
     "romtype": "UNOFFICIAL",
-    "size": 0,
-    "url": "https://github.com/Vanceral/ota_gts4lv/releases/download/v7.6/crDroidAndroid-11.0-20260421-gts4lv-v7.6.zip",
-    "version": "7.6"
+    "size": 936748682,
+    "url": "https://github.com/Vanceral/ota_gts4lv/releases/download/v7.61-REV38/crDroidAndroid-11.0-20260421-gts4lv-v7.61-REV38.zip",
+    "version": "7.61"
   }]
 }
